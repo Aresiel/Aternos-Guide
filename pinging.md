@@ -4,6 +4,7 @@ Who can I ping?
  - Alex
  - Doggo (can spam ping) (mostly for anime)
  - Flitz (not for support)
+ - Jenny (for support)
 ## Don't
  - Roman
  - Joakim
