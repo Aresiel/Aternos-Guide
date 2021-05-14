@@ -3,7 +3,7 @@ Who can I ping?
 ## Do
  - Kurt
  - Alex
- - Doggo
+ - Doggo (can spam ping)
  - Flitz (not for support)
 ## Don't
  - Roman
