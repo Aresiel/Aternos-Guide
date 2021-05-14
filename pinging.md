@@ -1,7 +1,6 @@
 Who can I ping?
 ===
 ## Do
- - Kurt
  - Alex
  - Doggo (can spam ping) (mostly for anime)
  - Flitz (not for support)
@@ -12,3 +11,5 @@ Who can I ping?
  - Julian
  - Fridge
  - Hexeption
+ - Jasper
+ - Kurt
