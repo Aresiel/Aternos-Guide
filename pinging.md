@@ -13,3 +13,4 @@ Who can I ping?
  - Hexeption
  - Jasper
  - Kurt
+ - Domi
