@@ -3,15 +3,12 @@ Who can I ping?
 ## Do
  - Alex
  - Doggo (can spam ping) (mostly for anime)
- - Flitz (not for support)
+ - Miata (not for support)
  - Jenny (for support)
 ## Don't
  - Roman
- - Joakim
+ - Marvin
  - Matthias
- - Julian
- - Fridge
- - Hexeption
- - Jasper
+ - Julam
+ - Artemis
  - Kurt
- - Domi
